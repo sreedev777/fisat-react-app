@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ViewAll = () => {
+const ViewStudent = () => {
   return (
     <div>
         <h1>view students</h1>
@@ -8,4 +8,4 @@ const ViewAll = () => {
   )
 }
 
-export default ViewAll
+export default ViewStudent
